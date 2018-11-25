@@ -1,0 +1,25 @@
+body {
+    background-color: #edf9ff;
+}
+h1 {
+    color: #000560;
+    text-align: center;
+    font-family: Chapman;
+    font-size: 40pt;
+}
+p {
+    color: black;
+    text-align: center;
+    font-family: Chapman;
+    font-size: 15pt;
+} 
+h2{
+	color: #000560;
+    text-align: center;
+    font-family: Chapman;
+    font-size: 30pt;
+}
+li{ text-align: center;
+	font-family: Chapman;
+	font-size: 15pt;
+}
